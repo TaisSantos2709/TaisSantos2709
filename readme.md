@@ -53,6 +53,14 @@ oi, sou a Taís Santos!
     style= "border:1px solid black;"
   />
     </th>
+    <th>
+    <img src="https://images.seeklogo.com/logo-png/35/1/ionic-logo-png_seeklogo-356468.png"
+    alt="imagem do google-ionic"
+    width="100px"
+    height="100px"
+    style= "border:1px solid black;"
+  />
+    </th>
 
 </table>
 

@@ -1,4 +1,4 @@
-oi, sou a Taís Santos!
+Oi, me chamo Taís Santos!
 
 <h3>ADS - Faculdade Uninorte - Manaus-am</h3>
 <h4>Unidade de Tecnologia-Djalma Batista</h4>

@@ -3,18 +3,18 @@ oi, sou a Taís Santos!
 <h3>ADS - Uninorte Djalma - Manaus</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBz0Bb97qJ3hwgfDwxh8xKXuF0cSknyh9najx4ARTsejRDEbu0KPNq6NL9yzocC47AY4&usqp=CAU"
-  alt="imagem do google"
+  alt="imagem do google-logo uninorte"
   width="50px"
   height="50px"
   />
 
-<p>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br>Adoro o curso, professores capacitados e bem informados sobre o assunto da sua máteria<br>estou aprendendo e desenvolvendo vários assuntos na área de desenvolvimento, cada vez mais apaixonada pela área.</p>
+<p>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br>Adoro o curso, professores capacitados e bem informados sobre o assunto da sua máteria.<br>Estou aprendendo e desenvolvendo vários assuntos na área de desenvolvimento, cada vez mais apaixonada por tecnologia.</p>
 
 <table>
   <tr>
     <th>
     <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"
-    alt="imagem do google"
+    alt="imagem do google-mysql"
     width="50px"
     height="50px"
     style= "border:1px solid black;"
@@ -22,7 +22,7 @@ oi, sou a Taís Santos!
     </th>
     <th>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
-    alt="imagem do google"
+    alt="imagem do google-vscode"
     width="50px"
     height="50px"
     style= "border:1px solid black;"
@@ -30,7 +30,7 @@ oi, sou a Taís Santos!
     </th>
     <th>
     <img src="https://i.pinimg.com/564x/c1/78/5d/c1785d50a929254419fa4aad0560b058.jpg"
-    alt="imagem do google"
+    alt="imagem do google-bootstrap"
     width="50px"
     height="50px"
     style= "border:1px solid black;"

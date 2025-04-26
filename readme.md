@@ -23,8 +23,8 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://media.tekpon.com/2023/08/Microsoft-Visual-Studio-Code-Logo.webp"
     alt="imagem do google-vscode"
-    width="60px"
-    height="50px"
+    width="80px"
+    height="80px"
     style= "border:1px solid black;"
   />
     </th>

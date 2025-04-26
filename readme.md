@@ -54,10 +54,10 @@ oi, sou a Taís Santos!
   />
     </th>
     <th>
-    <img src="https://images.seeklogo.com/logo-png/35/1/ionic-logo-png_seeklogo-356468.png"
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X6ZnN_k8jLW1pOVpGAGqLe1Isof-_Saq9WWPNvG3TUgQSIx6oY6YaL-oyn5HvMz4TOM&usqp=CAU"
     alt="imagem do google-ionic"
-    width="100px"
-    height="100px"
+    width="50px"
+    height="50px"
     style= "border:1px solid black;"
   />
     </th>

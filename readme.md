@@ -45,6 +45,14 @@ oi, sou a Taís Santos!
     style= "border:1px solid black;"
   />
     </th>
+    <th>
+    <img src="https://static.cdnlogo.com/logos/p/44/php.svg"
+    alt="imagem do google-php"
+    width="100px"
+    height="50px"
+    style= "border:1px solid black;"
+  />
+    </th>
 
       
     

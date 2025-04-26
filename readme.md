@@ -29,7 +29,7 @@ oi, sou a Taís Santos!
   />
     </th>
     <th>
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/icon-botsrap-1.webp"
+    <img src="https://i.pinimg.com/564x/c1/78/5d/c1785d50a929254419fa4aad0560b058.jpg"
     alt="imagem do google"
     width="50px"
     height="50px"

@@ -14,7 +14,7 @@ oi, sou a Taís Santos!
   slyle="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
   
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
   alt="imagem do google"
   width="50px"
   height="50px"

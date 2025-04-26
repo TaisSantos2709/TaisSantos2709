@@ -48,8 +48,8 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://static.cdnlogo.com/logos/p/44/php.svg"
     alt="imagem do google-php"
-    width="200px"
-    height="200px"
+    width="100px"
+    height="100px"
     style= "border:1px solid black;"
   />
     </th>

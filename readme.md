@@ -5,7 +5,7 @@ oi, sou a Taís Santos!
 <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGqEj1zLsTI3Q/company-logo_200_200/company-logo_200_200/0/1664983523234?e=2147483647&v=beta&t=5Hy61unXLCOA7SP58WS2kJuOv5KFnfn-KpOyqsSPK-M"
   alt="imagem do google-logo uninorte"
   width="100px"
-  height="50px"
+  height="100px"
   />
 
 <p>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br>Adoro o curso, professores capacitados e bem informados sobre o assunto da sua máteria.<br>Estou aprendendo e desenvolvendo vários assuntos na área de desenvolvimento, cada vez mais apaixonada por tecnologia.</p>

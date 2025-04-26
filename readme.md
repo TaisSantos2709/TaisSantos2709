@@ -29,7 +29,7 @@ oi, sou a Taís Santos!
   />
     </th>
     <th>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUSqtb3BxKnZ2U50WtFHPM_v6tCbUDJm0C77oa-Z4aDHqcBu5tPSZrgTwysdaGflMlyIsvvhQzwkqDqjjRlEJhoUawg3foCW_WvOPhgLeTH78cnhuB3zlUialo1eaTdU7xI-ENMTeR4FPQ/s1600/bootstrap-png-bootstrap-512.png)"
+    <img src="(https://www.rlogical.com/wp-content/uploads/2023/03/icon-botsrap-1.webp)"
     alt="imagem do google"
     width="50px"
     height="50px"

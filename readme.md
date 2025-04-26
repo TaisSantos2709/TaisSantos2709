@@ -2,7 +2,12 @@ oi, sou a Taís Santos!
 
 <h3>ADS - Uninorte Djalma - Manaus</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBz0Bb97qJ3hwgfDwxh8xKXuF0cSknyh9najx4ARTsejRDEbu0KPNq6NL9yzocC47AY4&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBz0Bb97qJ3hwgfDwxh8xKXuF0cSknyh9najx4ARTsejRDEbu0KPNq6NL9yzocC47AY4&usqp=CAU"
+  alt="imagem do google"
+  width="50px"
+  height="50px"
+  slyle="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+  />
 
 <h2>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br><br>Adoro o curso, professores capacitados e bem informados sobre o assunto da máteria</h2>
 

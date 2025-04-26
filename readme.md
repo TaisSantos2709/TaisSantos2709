@@ -16,14 +16,14 @@ oi, sou a Taís Santos!
   alt="imagem do google"
   width="50px"
   height="50px"
-  border:1px solid black;
+  style= "border:1px solid black;"
   />
     </th>
     <th><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
   alt="imagem do google"
   width="50px"
   height="50px"
-  border:1px solid black;
+  style= "border:1px solid black;"
   /></th>
   </tr>
 </table>

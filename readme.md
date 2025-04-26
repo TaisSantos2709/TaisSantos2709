@@ -23,7 +23,7 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://media.tekpon.com/2023/08/Microsoft-Visual-Studio-Code-Logo.webp"
     alt="imagem do google-vscode"
-    width="50px"
+    width="80px"
     height="50px"
     style= "border:1px solid black;"
   />
@@ -31,7 +31,7 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://i.pinimg.com/564x/c1/78/5d/c1785d50a929254419fa4aad0560b058.jpg"
     alt="imagem do google-bootstrap"
-    width="50px"
+    width="80px"
     height="50px"
     style= "border:1px solid black;"
   />

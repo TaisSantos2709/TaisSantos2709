@@ -12,20 +12,22 @@ oi, sou a Taís Santos!
 
 <table>
   <tr>
-    <th><img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"
-  alt="imagem do google"
-  width="50px"
-  height="50px"
-  style= "border:1px solid black;"
+    <th>
+    <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"
+    alt="imagem do google"
+    width="50px"
+    height="50px"
+    style= "border:1px solid black;"
   />
     </th>
-    <th><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
-  alt="imagem do google"
-  width="50px"
-  height="50px"
-  style= "border:1px solid black;"
-  /></th>
-  </tr>
+    <th>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
+    alt="imagem do google"
+    width="50px"
+    height="50px"
+    style= "border:1px solid black;"
+  />
+    </th>
 </table>
 
   

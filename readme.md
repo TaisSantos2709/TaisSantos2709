@@ -1,6 +1,6 @@
 Oi, me chamo Taís Santos!
 
-<h3>ADS - Faculdade Uninorte - Manaus-am</h3><h4>Unidade de Tecnologia-Djalma Batista</h4>
+<h3>Faculdade Uninorte - Manaus-am</h3><h4>Unidade de Tecnologia-Djalma Batista</h4>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGqEj1zLsTI3Q/company-logo_200_200/company-logo_200_200/0/1664983523234?e=2147483647&v=beta&t=5Hy61unXLCOA7SP58WS2kJuOv5KFnfn-KpOyqsSPK-M"
   alt="imagem do google-logo uninorte"

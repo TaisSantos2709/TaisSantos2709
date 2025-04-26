@@ -21,7 +21,7 @@ oi, sou a Taís Santos!
   />
     </th>
     <th>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJNnjZv36ijogi3aM_xcSMy26_QeOWrVmJQ&s"
+    <img src="https://media.tekpon.com/2023/08/Microsoft-Visual-Studio-Code-Logo.webp"
     alt="imagem do google-vscode"
     width="50px"
     height="50px"

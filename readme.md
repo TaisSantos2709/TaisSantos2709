@@ -15,7 +15,7 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"
     alt="imagem do google-mysql"
-    width="50px"
+    width="70px"
     height="50px"
     style= "border:1px solid black;"
   />

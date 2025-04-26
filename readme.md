@@ -6,7 +6,6 @@ oi, sou a Taís Santos!
   alt="imagem do google"
   width="50px"
   height="50px"
-  style="border-radius: 10px;"
   />
 
 <p>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br>Adoro o curso, professores capacitados e bem informados sobre o assunto da máteria</p>

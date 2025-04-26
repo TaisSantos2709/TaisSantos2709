@@ -11,7 +11,7 @@ oi, sou a Taís Santos!
 <p>Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na Faculdade Uninorte, que fica localizada em Manaus-am<br>Adoro o curso, professores capacitados e bem informados sobre o assunto da sua máteria.<br>Estou aprendendo e desenvolvendo vários assuntos na área de desenvolvimento, cada vez mais apaixonada por tecnologia.</p>
 
 <h3>Studyn in this moment:</h3>
-<table>
+<table style="width:100%">
   <tr>
     <th>
     <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png"

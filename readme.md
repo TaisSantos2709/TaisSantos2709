@@ -1,6 +1,6 @@
 oi, sou a Taís Santos!
 
-<h3>ADS - Uninorte Djalma - Manaus</h3>
+<h3>ADS - Faculdade Uninorte Manaus-am - Djalma Batista</h3>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGqEj1zLsTI3Q/company-logo_200_200/company-logo_200_200/0/1664983523234?e=2147483647&v=beta&t=5Hy61unXLCOA7SP58WS2kJuOv5KFnfn-KpOyqsSPK-M"
   alt="imagem do google-logo uninorte"

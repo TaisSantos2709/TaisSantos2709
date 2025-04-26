@@ -4,7 +4,7 @@ oi, sou a Taís Santos!
 
 <img src="https://www.uninorte.com.br/wp-content/uploads/2019/11/logo_UNN_SER_2019-PNG.png"
   alt="imagem do google-logo uninorte"
-  width="50px"
+  width="100px"
   height="50px"
   />
 

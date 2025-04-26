@@ -56,8 +56,8 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X6ZnN_k8jLW1pOVpGAGqLe1Isof-_Saq9WWPNvG3TUgQSIx6oY6YaL-oyn5HvMz4TOM&usqp=CAU"
     alt="imagem do google-ionic"
-    width="70px"
-    height="70px"
+    width="60px"
+    height="60px"
     style= "border:1px solid black;"
   />
     </th>

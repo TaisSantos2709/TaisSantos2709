@@ -2,7 +2,7 @@ oi, sou a Taís Santos!
 
 <h3>ADS - Uninorte Djalma - Manaus</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIBz0Bb97qJ3hwgfDwxh8xKXuF0cSknyh9najx4ARTsejRDEbu0KPNq6NL9yzocC47AY4&usqp=CAU"
+<img src="https://www.uninorte.com.br/wp-content/uploads/2019/11/logo_UNN_SER_2019-PNG.png"
   alt="imagem do google-logo uninorte"
   width="50px"
   height="50px"

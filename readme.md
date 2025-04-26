@@ -40,6 +40,8 @@ oi, sou a Taís Santos!
     <th>
     <img src="https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg"
     alt="imagem do google-javascript"
+    width="120px"
+    height="60px"
     style= "border:1px solid black;"
   />
     </th>
